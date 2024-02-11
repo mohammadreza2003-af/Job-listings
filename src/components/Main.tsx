@@ -9,7 +9,7 @@ const Main = () => {
   };
   return (
     <div className="w-full sm:py-20 py-14 h-min:h-screen">
-      <div className="sm:py-8 py-8 px-4 sm:px-4 bg-white rounded-lg shadow-lg mb-8 flex justify-between">
+      <div className="sm:py-8 py-8 px-4 sm:px-4 bg-white rounded-lg shadow-lg mb-16 flex justify-between">
         <div>
           <div className="sm:flex grid grid-cols-3 gap-4 sm:gap-x-4">
             {languages.map((lang) => (
