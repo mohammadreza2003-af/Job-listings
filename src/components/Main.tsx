@@ -44,7 +44,7 @@ const Main = () => {
             className="underline text-primary"
             onClick={() => handleRest()}
           >
-            Clear All
+            Clear
           </button>
         )}
       </div>
